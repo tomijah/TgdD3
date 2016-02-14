@@ -1,0 +1,22 @@
+{
+  "name": "TgdD3",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Tomasz Jahołkowski"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/tomijah/TgdD3",
+  "moduleType": [],
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "d3": "^3.5.15"
+  }
+}

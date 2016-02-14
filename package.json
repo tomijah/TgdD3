@@ -1,0 +1,23 @@
+{
+  "name": "TgdD3",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tomijah/TgdD3.git"
+  },
+  "author": "Tomasz Jahołkowski",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tomijah/TgdD3/issues"
+  },
+  "homepage": "https://github.com/tomijah/TgdD3",
+  "devDependencies": {
+    "bower": "~1.7.7",
+    "tsd": "~0.6.5"
+  }
+}
